@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248019567469",
+    "project_id": "sportrip-8f31c",
+    "storage_bucket": "sportrip-8f31c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248019567469:android:5b13564698984a40fc9064",
+        "android_client_info": {
+          "package_name": "com.example.sportripv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248019567469-i43kdqrorq38udjn8hebmokk0or1s8gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkz2cNmd44vjQNmlI9YdM9lwqn3Xajx2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248019567469-i43kdqrorq38udjn8hebmokk0or1s8gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
