@@ -15,7 +15,7 @@ public class firstEntryActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first_entry);
     }
-
+//משהו
     public void login(View v) {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
